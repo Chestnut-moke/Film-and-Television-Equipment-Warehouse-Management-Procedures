@@ -1,0 +1,6 @@
+{
+  "name": "影视设备仓库",
+  "description": "基于 Forest 和 Notion 绿白极简风格设计，支持设备添加、租期设置、租赁人管理、历史次数/时长统计、租期日程全览（或单设备日程），并集成扫码快速借出与归还功能的影视设备仓库管理应用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
